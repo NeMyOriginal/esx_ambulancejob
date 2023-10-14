@@ -80,6 +80,8 @@ Locales['sr'] = {
   ['not_enough_medikit'] = 'Nemate medikit.',
   ['not_enough_bandage'] = 'Nemate zavoj.',
   ['healed'] = 'Vas leče.',
+  ['unconscious_found'] = '[DISPATCH]: Pronađena je osoba bez svesti',
+
   -- Blips
   ['blip_hospital'] = 'Bolnica',
   ['blip_dead'] = 'Povredjena Osoba',
